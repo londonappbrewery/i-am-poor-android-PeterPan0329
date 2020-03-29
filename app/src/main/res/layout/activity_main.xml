@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/imageView"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="-489dp"
+        android:layout_marginBottom="-502dp"
         android:text="@string/title_2"
         android:textSize="50sp" />
 
